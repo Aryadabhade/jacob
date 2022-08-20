@@ -1,0 +1,18 @@
+[{
+    "Number" : "1",
+    "StudentsName" : "kundan fegade",
+    "StuEmail" : "kundan@gmail.com",
+    "MobNo" : "9156048648",
+    "joining_date" : "2022-08-17T15:05:41.032042",
+    "ending_date" : "2022-08-17T15:05:41.032042"
+},
+{
+    "Number" : "2",
+    "StudentsName" : "Aryan",
+    "StuEmail" : "Aryan@gmail.com",
+    "MobNo" : "91658785448",
+    "joining_date" : "2022-08-17T15:05:41.032042",
+    "ending_date" : "2022-08-17T15:05:41.032042"
+}
+
+]
